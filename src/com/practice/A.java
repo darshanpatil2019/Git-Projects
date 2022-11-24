@@ -1,17 +1,19 @@
+package com.practice;
+
 public class A {
     static int a = 20;
 
-    public void add(){
+    public void add() {
         System.out.println(a);
     }
 
-    static void add1(){
+    static void add1() {
         System.out.println(a);
     }
 
     public static void main(String[] args) {
         A a = new A();
         a.add();
-        A.add1();
+        add1();
     }
 }
