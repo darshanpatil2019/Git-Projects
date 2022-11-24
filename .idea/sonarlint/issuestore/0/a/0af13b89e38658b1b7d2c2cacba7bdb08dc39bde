@@ -1,0 +1,13 @@
+
+]
+java:S2184#"BCast one of the operands of this addition operation to a "double".(´ª‘Ìüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿Œâ¬øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€²üÔ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+=
+java:S1659!""Declare "area" on a separate line.(ÏÉŠâÿÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(›•
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÁòîÍ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(Ú‚u
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Ÿ†¶Ú
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(‰€ÈÂ
